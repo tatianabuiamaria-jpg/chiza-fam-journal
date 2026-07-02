@@ -55,7 +55,7 @@ export default function JournalHome() {
             <div className="stamp">
               Windhoek, Namibia
               <br />
-              Vol. 1 — Est. 2024
+              Vol. 1 — Est. 2026
             </div>
           </div>
           <p className="dek">
